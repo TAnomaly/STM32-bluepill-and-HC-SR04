@@ -1,0 +1,8 @@
+../Core/Src/main.c:52:6:Sensor_LED_Control	16	static
+../Core/Src/main.c:90:7:HC_SR04_GetDistance	24	static
+../Core/Src/main.c:127:6:LED_Control	16	static
+../Core/Src/main.c:140:5:main	16	static
+../Core/Src/main.c:168:6:SystemClock_Config	72	static
+../Core/Src/main.c:204:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:238:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:274:6:Error_Handler	4	static,ignoring_inline_asm
