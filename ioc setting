@@ -1,0 +1,19 @@
+Click RCC → High Speed Clock (HSE) to Crystal/Ceramic Resonator
+
+Click Clock Configuration tab → HCLK (MHz) to 72
+
+Click Pinout and Configuration tab
+
+Click Timer → Click TIM1 →
+
+Clock Source set to Internal Clock
+
+Configuration → Parameter Settings →
+
+Prescaler set to 71
+
+Set PA9 to GPIO_Output
+
+Set PA8 to GPIO_Input
+
+Set PC13 to GPIO_Output
